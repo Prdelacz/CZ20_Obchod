@@ -1,1 +1,1 @@
-# CZ20_Obchod
+# CZ20_Obchod - 0nline obchod s administrátorským panelem
